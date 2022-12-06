@@ -7,5 +7,5 @@ package cn.attention.infrastructure.utility;
  * @date 2022/11/3
  */
 public class Encoder {
-
+    // Test git
 }
